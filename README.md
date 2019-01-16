@@ -1,4 +1,4 @@
-# WebSharper Forms
+# WebSharper Forms [![Build status](https://ci.appveyor.com/api/projects/status/6bbo1gmnbxkcdkdo?svg=true)](https://ci.appveyor.com/project/IntelliFactory/forms)
 
 Sample for [WebSharper](https://websharper.com) bindings for [Forms](https://github.com/dotnet-websharper/forms).
 
